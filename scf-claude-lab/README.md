@@ -1,4 +1,4 @@
-# SCF Claude Lab – Student Starter Kit
+# SCF Claude Lab –  Starter Kit
 
 ## Objective
 Learn how AI (Claude) is used responsibly in compliance and control engineering.
