@@ -9,12 +9,7 @@ You will:
 - Review and improve AI-generated drafts
 - Produce audit-ready control artifacts
 
-You will NOT:
-- Chat randomly with AI
-- Treat AI output as final truth
-- Use private or sensitive data
 
----
 
 ## Setup Instructions
 
